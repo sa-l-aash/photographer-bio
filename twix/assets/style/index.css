@@ -1,7 +1,7 @@
 /* set page margin */
 body {
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 190px;
+  margin-right: 190px;
 }
 
 /* Navigation bar */
@@ -35,6 +35,8 @@ body {
 /* the image */
 #imageSection {
   width: 50%;
+  height: 500px;
+  margin-top: 40px;
 }
 #DescriptionButton {
   width: 50%;
